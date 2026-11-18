@@ -1,10 +1,11 @@
 
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?](https://limbuscompany.wiki.gg/images/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png?fd9558)type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=000000&strokeWidth=5" width="100%" />
+<img src="https://limbuscompany.wiki.gg/images/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png?fd9558"
+     width="350"
+     alt="The Middle Nursefather Outis" />
 
 </div>
-
 # 💙 Welcome to My GitHub Profile!
 
 ### Hello! I'm Hanz 😃
@@ -52,10 +53,12 @@ Most importantly, I believe that learning should be enjoyable, and I always make
   
 ## ⚡ Fun Facts About Me
 
-- 💡 I hate **semicolons**. 😠
-- 🖥️ I used to change the Command Prompt color to **green** to make myself look like a hacker. 😅
-- 🌙 I enjoy coding at night after taking a sip of black coffee.
-- 🛑 I have an Indian best friend. 💁‍♂️
+- ⚡ Fun Facts About Me
+- 💻 I genuinely love coding and enjoy exploring new things through programming.
+- 🧠 I love solving problems using my own knowledge, skills, and creativity.
+- 🎯 I enjoy challenging myself and finding solutions independently.
+- 🌱 I believe every problem I encounter is an opportunity to learn and improve.
+- 🚀 I'm always excited to learn new programming languages and discover new possibilities in coding.
 
 
 
