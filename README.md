@@ -1,11 +1,7 @@
 
-<div align="center">
-
 <a href="https://limbuscompany.wiki.gg/index.php?curid=36125">
-
-<img src="https://limbuscompany.wiki.gg/images/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png?fd9558"
-     width="350"
-     alt="The Middle Nursefather Outis" />
+  The Middle Nursefather Outis – Limbus Company Wiki
+</a>
 
 </a>
 
