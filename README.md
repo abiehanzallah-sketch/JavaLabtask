@@ -1,14 +1,4 @@
 
-<a href="https://limbuscompany.wiki.gg/index.php?curid=36125">
-  The Middle Nursefather Outis – Limbus Company Wiki
-</a>
-
-</a>
-
-### 🕷️ The Middle Nursefather Outis
-
-*Click the image to learn more.*
-
 </div>
 
 # 💙 Welcome to My GitHub Profile!
