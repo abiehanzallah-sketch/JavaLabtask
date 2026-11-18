@@ -1,11 +1,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=000000&strokeWidth=5" width="100%" />
+
+</div>
 
 # 💙 Welcome to My GitHub Profile!
 
-### Hello! I'm Aaron 😃
+### Hello! I'm Hanz 😃
 
 *Aspiring Developer | Problem Solver | Tech Enthusiast*
 
