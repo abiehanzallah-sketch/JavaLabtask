@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://limbuscompany.wiki.gg/images/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png?fd9558"
+<img src="[https://limbuscompany.wiki.gg/images/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png?fd9558](https://limbuscompany.wiki.gg/images/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full.png?542331)"
      width="350"
      alt="The Middle Nursefather Outis" />
 
