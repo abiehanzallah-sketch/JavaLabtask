@@ -25,10 +25,11 @@ Most importantly, I believe that learning should be enjoyable, and I always make
 
 ### 🎯 Areas of Interest
 
-- Ai
-- Coding Langauges
-- Games
+- 🤖 AI – Artificial Intelligence
 
+- 💻 Coding Languages – Programming
+
+- 🎮 Games – Game Development
 
 ---
 
@@ -47,23 +48,8 @@ Most importantly, I believe that learning should be enjoyable, and I always make
 ### 🧪 MIDTERM ACTIVITIES
 
 - [Midterm Paired Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) — Object-Oriented Analysis
-- [Midterm Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) — Escape Sequences, Type Specifiers, User Input, and Day Identifier
-- [Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) — Loops and Functions
-- [Midterm Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%203_Aaron%20Aquino.pdf) — List Collections
-- [Midterm Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%204_AaronAquino..pdf) — Dictionary Collections
-- [Midterm Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%205_AaronAquino..pdf) — Creating Classes and Instantiating Objects in Python
 
-### 🎓 FINALS ACTIVITIES
-
-- [Final Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%231_AaronAquino.pdf) — Encapsulation
-- [Final Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%232_AaronAquino.pdf) — Inheritance
-- [Final Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%20%233_AaronAquino.pdf) — Polymorphism
-- [Final Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%234_AaronAquino.pdf) — Python and Tkinter GUI Program
-- [Final Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%235_AquinoAaron.pdf) — CRUD CLI Using Python and MySQL
-- [Final Lab Task #6](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%236_AaronAquino.pdf) — MySQL and Tkinter GUI
-
----
-
+  
 ## ⚡ Fun Facts About Me
 
 - 💡 I hate **semicolons**. 😠
@@ -71,25 +57,7 @@ Most importantly, I believe that learning should be enjoyable, and I always make
 - 🌙 I enjoy coding at night after taking a sip of black coffee.
 - 🛑 I have an Indian best friend. 💁‍♂️
 
----
 
-## 📞 Connect With Me!
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaquino24-0196@cca.edu.ph">
-    <img src="https://img.shields.io/badge/Email-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/aaronaquino123/">
-    <img src="https://img.shields.io/badge/Facebook-ADD8E6?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ayay.ron0/">
-    <img src="https://img.shields.io/badge/Instagram-ADD8E6?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
-  </a>
-</p>
-
----
 
 <div align="center">
 
