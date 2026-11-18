@@ -21,7 +21,6 @@ I'm currently learning programming and web development.
 
 </div>
 
-
 <style 
 <p align="center">
   <img src=""/>
