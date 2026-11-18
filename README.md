@@ -1,35 +1,26 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Light Blue Page</title>
 
-    <style>
-        body {
-            background-color: lightblue;
-            margin: 0;
-            padding: 30px;
-            border: 10px solid white;
-            min-height: 100vh;
-            box-sizing: border-box;
-            font-family: Arial, sans-serif;
-        }
+<div align="center">
 
-        h1 {
-            color: white;
-            text-align: center;
-        }
+# 💙 Welcome to My GitHub Profile!
 
-        p {
-            color: white;
-            text-align: center;
-        }
-    </style>
-</head>
+</div>
 
-<body>
+<div align="center">
 
-    <h1>Welcome to My Website!</h1>
-    <p>This is my light blue background with white edges.</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=8" width="100%" />
+
+</div>
+
+<div align="center">
+
+### 🌸 About Me
+
+Hello! Welcome to my profile.
+
+I'm currently learning programming and web development.
+
+</div>
+
 
 <style 
 <p align="center">
