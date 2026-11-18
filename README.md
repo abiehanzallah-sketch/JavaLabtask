@@ -1,4 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Light Blue Page</title>
 
+    <style>
+        body {
+            background-color: lightblue;
+            margin: 0;
+            padding: 30px;
+            border: 10px solid white;
+            min-height: 100vh;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: white;
+            text-align: center;
+        }
+
+        p {
+            color: white;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Welcome to My Website!</h1>
+    <p>This is my light blue background with white edges.</p>
+
+<style 
 <p align="center">
   <img src=""/>
 </p>
