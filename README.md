@@ -46,7 +46,7 @@ Games
 
 ### 🧪 MIDTERM ACTIVITIES
 
-- [Midterm Paired Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) — Object-Oriented Analysis
+- (https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) — Object-Oriented Analysis
 - [Midterm Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) — Escape Sequences, Type Specifiers, User Input, and Day Identifier
 - [Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) — Loops and Functions
 - [Midterm Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%203_Aaron%20Aquino.pdf) — List Collections
