@@ -25,9 +25,9 @@ Most importantly, I believe that learning should be enjoyable, and I always make
 
 ### 🎯 Areas of Interest
 
-Ai
-Coding Langauges
-Games
+- Ai
+- Coding Langauges
+- Games
 
 
 ---
