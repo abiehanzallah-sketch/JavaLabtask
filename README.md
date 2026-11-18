@@ -43,7 +43,7 @@ Most importantly, I believe that learning should be enjoyable, and I always make
 
 ### 🧪 MIDTERM ACTIVITIES
 
-- [Midterm lab Task #1]([https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf](https://abiehanzallah-sketch.github.io/JavaLabtask/]).-
+[- [Midterm lab Task #1]([https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf](https://abiehanzallah-sketch.github.io/JavaLabtask/]).-](https://abiehanzallah-sketch.github.io/JavaLabtask/)
 
   
 ## ⚡ Fun Facts About Me
