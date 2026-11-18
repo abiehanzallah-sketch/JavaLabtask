@@ -1,107 +1,97 @@
 
 <div align="center">
 
-# 💙 Welcome to My GitHub Profile!
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=8" width="100%" />
 
+# 💙 Welcome to My GitHub Profile!
+
+### Hello! I'm Aaron 😃
+
+*Aspiring Developer | Problem Solver | Tech Enthusiast*
+
 </div>
+
+---
+
+## 🌟 About Me
+
+I’m someone who can balance both being outgoing and introverted. I enjoy connecting with others when the situation calls for it, but I also value time alone to think deeply and recharge.
+
+I naturally approach challenges like a programmer debugging code: breaking problems down, analyzing them, and finding the most effective solution.
+
+Being a problem solver and solution provider is at the core of who I am. I don't just look for quick fixes; I look for sustainable solutions.
+
+### 🎯 Areas of Interest
+
+- 🤖 Artificial Intelligence / Machine Learning
+- 👨🏻‍💻 Software Engineering / Systems Design
+- 🎮 Game Development (Roblox, Unity, Unreal Engine)
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ADD8E6?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-ADD8E6?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ADD8E6?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📚 My Projects
+
+### 🧪 MIDTERM ACTIVITIES
+
+- [Midterm Paired Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) — Object-Oriented Analysis
+- [Midterm Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) — Escape Sequences, Type Specifiers, User Input, and Day Identifier
+- [Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) — Loops and Functions
+- [Midterm Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%203_Aaron%20Aquino.pdf) — List Collections
+- [Midterm Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%204_AaronAquino..pdf) — Dictionary Collections
+- [Midterm Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%205_AaronAquino..pdf) — Creating Classes and Instantiating Objects in Python
+
+### 🎓 FINALS ACTIVITIES
+
+- [Final Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%231_AaronAquino.pdf) — Encapsulation
+- [Final Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%232_AaronAquino.pdf) — Inheritance
+- [Final Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%20%233_AaronAquino.pdf) — Polymorphism
+- [Final Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%234_AaronAquino.pdf) — Python and Tkinter GUI Program
+- [Final Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%235_AquinoAaron.pdf) — CRUD CLI Using Python and MySQL
+- [Final Lab Task #6](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%236_AaronAquino.pdf) — MySQL and Tkinter GUI
+
+---
+
+## ⚡ Fun Facts About Me
+
+- 💡 I hate **semicolons**. 😠
+- 🖥️ I used to change the Command Prompt color to **green** to make myself look like a hacker. 😅
+- 🌙 I enjoy coding at night after taking a sip of black coffee.
+- 🛑 I have an Indian best friend. 💁‍♂️
+
+---
+
+## 📞 Connect With Me!
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaquino24-0196@cca.edu.ph">
+    <img src="https://img.shields.io/badge/Email-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/aaronaquino123/">
+    <img src="https://img.shields.io/badge/Facebook-ADD8E6?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ayay.ron0/">
+    <img src="https://img.shields.io/badge/Instagram-ADD8E6?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-### 🌸 About Me
+### 💙 Thanks for Visiting My Profile!
 
-Hello! Welcome to my profile.
-
-I'm currently learning programming and web development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer" width="100%" />
 
 </div>
-
-<style 
-<p align="center">
-  <img src=""/>
-</p>
-<p align="center">
-Hello! I'm Aaron ... 😃
-  </p>
-
-## 🌟 About Me
-I’m someone who can balance both being outgoing and introverted. I enjoy connecting with others when the situation calls for it, but I also value time alone to think deeply and recharge. I naturally approach challenges like a programmer debugging code, breaking problems down, analyzing them, and finding the most effective solution. Being a problem solver and solution provider is at the core of who I am; I don’t just look for quick fixes, I look for sustainable answers.
-
-### Area of Interest:
-- Artificial Intelligence / Machine Learning. 🤖
-- Software Engineering / Systems Design. 👨🏻‍💻
-- Game Development (e.g., Roblox, Unity, Unreal) 🎮
-
----
-
-## Programming Languages
-- Java ♨️
-- C Languange 🇨
-- Python 🇵🇾
-
----
-
-## 💻 My Projects  
-
-### 🧪 MIDTERM 
-[Midterm Paired Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) - Object Oriented Analysis
-
-[Midterm Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) - Escape Sequence, Type Specifiers, Accept User Input and Day Identifier
-
-[Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) - Using Loops and Functions
-
-[Midterm Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%203_Aaron%20Aquino.pdf) - Using List Collections
-
-[Midterm Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%204_AaronAquino..pdf) - Using Dictionary Collections
-
-[Midterm Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%205_AaronAquino..pdf) - Creating Class and Instantiating Objects in Python
-
----
-
-### 🎓 FINALS  
-[Final Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%231_AaronAquino.pdf) - Encapsulation
-
-[Final Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%232_AaronAquino.pdf) - Inheritance
-
-[Final Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%20%233_AaronAquino.pdf) - Polymorphism
-
-[Final Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%234_AaronAquino.pdf) - Python and Tkinter GUI program
-
-[Final Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%235_AquinoAaron.pdf) - CRUD CLI using Pythong and MySQL
-
-[Final Lab Task #6](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%236_AaronAquino.pdf) - MySQL and Tkinter HUI
-
-
---- 
-
-## ⚡ Fun Fact About Me:
-
-- 💡 I hate **semicolons**. 😠  
-- 🖥️I used to change the color of the command promt into **green** to make me look like a Hacker.😅   
-- 🌙 I enjoy coding after I took a sip of black coffee in the night.      
-- 🛑 I have a bestfriend who is an Indian. 💁‍♂️ 
-    
-
----
-
-## 📞 Click Below to Connect with Me!   
-
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaquino24-0196@cca.edu.ph" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/aaronaquino123/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ayay.ron0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-</p>
