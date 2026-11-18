@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=000000&strokeWidth=5" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?](https://limbuscompany.wiki.gg/images/The_House_of_Spiders_The_Middle_Nursefather_Outis_Full_Uptied.png?fd9558)type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=000000&strokeWidth=5" width="100%" />
 
 </div>
 
