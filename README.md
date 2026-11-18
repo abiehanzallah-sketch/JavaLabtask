@@ -4,16 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=000000&strokeWidth=5" width="100%" />
 
 </div>
-<div align="center">
 
-## ⚙️ TECHNOLOGIES & TOOLS
-
-<img src="https://img.shields.io/badge/Java-ADD8E6?style=for-the-badge&logo=openjdk&logoColor=000000" />
-<img src="https://img.shields.io/badge/C-ADD8E6?style=for-the-badge&logo=c&logoColor=000000" />
-<img src="https://img.shields.io/badge/Python-ADD8E6?style=for-the-badge&logo=python&logoColor=000000" />
-<img src="https://img.shields.io/badge/GitHub-ADD8E6?style=for-the-badge&logo=github&logoColor=000000" />
-
-</div>
 # 💙 Welcome to My GitHub Profile!
 
 ### Hello! I'm Hanz 😃
@@ -26,17 +17,18 @@
 
 ## 🌟 About Me
 
-I’m someone who can balance both being outgoing and introverted. I enjoy connecting with others when the situation calls for it, but I also value time alone to think deeply and recharge.
+I am a patient and determined individual who enjoys solving problems and taking on challenges that help me grow and improve. 
 
-I naturally approach challenges like a programmer debugging code: breaking problems down, analyzing them, and finding the most effective solution.
+I believe that every challenge is an opportunity to learn something new and develop my skills. I am passionate about programming and eager to explore different programming languages, expand my knowledge, and continuously improve as a developer.
 
-Being a problem solver and solution provider is at the core of who I am. I don't just look for quick fixes; I look for sustainable solutions.
+Most importantly, I believe that learning should be enjoyable, and I always make sure to have fun while coding!
 
 ### 🎯 Areas of Interest
 
-- 🤖 Artificial Intelligence / Machine Learning
-- 👨🏻‍💻 Software Engineering / Systems Design
-- 🎮 Game Development (Roblox, Unity, Unreal Engine)
+Ai
+Coding Langauges
+Games
+
 
 ---
 
