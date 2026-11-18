@@ -4,7 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ADD8E6&height=180&section=header&text=Hello%20Everyone!&fontSize=40&fontColor=FFFFFF&stroke=000000&strokeWidth=5" width="100%" />
 
 </div>
+<div align="center">
 
+## ⚙️ TECHNOLOGIES & TOOLS
+
+<img src="https://img.shields.io/badge/Java-ADD8E6?style=for-the-badge&logo=openjdk&logoColor=000000" />
+<img src="https://img.shields.io/badge/C-ADD8E6?style=for-the-badge&logo=c&logoColor=000000" />
+<img src="https://img.shields.io/badge/Python-ADD8E6?style=for-the-badge&logo=python&logoColor=000000" />
+<img src="https://img.shields.io/badge/GitHub-ADD8E6?style=for-the-badge&logo=github&logoColor=000000" />
+
+</div>
 # 💙 Welcome to My GitHub Profile!
 
 ### Hello! I'm Hanz 😃
